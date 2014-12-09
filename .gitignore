@@ -41,3 +41,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Project config files
+config.h
+
